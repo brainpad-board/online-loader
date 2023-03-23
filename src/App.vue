@@ -151,15 +151,15 @@ export default {
                     isGlb: false,
                     image: null,
                 },
-				'Brainpad_Due_Pulse_013': {
-                    title: 'Brainpad_Due_Pulse (v0.1.3)',
-                    url: 'firmware/Brainpad_Due_Pulse_013.ghi',
+				'Brainpad_Due_Pulse_014': {
+                    title: 'Brainpad_Due_Pulse (v0.1.4)',
+                    url: 'firmware/Brainpad_Due_Pulse_014.ghi',
                     isGlb: false,
                     image: null,
                 },
-				'Brainpad_Due_Edge_003': {
-                    title: 'Brainpad_Due_Edge (v0.0.3)',
-                    url: 'firmware/Brainpad_Due_Edge_003.ghi',
+				'Brainpad_Due_Edge_004': {
+                    title: 'Brainpad_Due_Edge (v0.0.4)',
+                    url: 'firmware/Brainpad_Due_Edge_004.ghi',
                     isGlb: false,
                     image: null,
                 },
