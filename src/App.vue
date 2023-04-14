@@ -151,15 +151,15 @@ export default {
                     isGlb: false,
                     image: null,
                 },
-				'Due_SC13_020': {
-                    title: 'Due_SC13 (v0.2.0)',
-                    url: 'firmware/due_sc13_v020.ghi',
+				'Due_SC13_021': {
+                    title: 'Due_SC13 (v0.2.1)',
+                    url: 'firmware/due_sc13_v021.ghi',
                     isGlb: false,
                     image: null,
                 },
-				'Due_SC007_010': {
-                    title: 'Due_SC007 (v0.1.0)',
-                    url: 'firmware/due_sc007_v010.ghi',
+				'Due_SC007_011': {
+                    title: 'Due_SC007 (v0.1.1)',
+                    url: 'firmware/due_sc007_v011.ghi',
                     isGlb: false,
                     image: null,
                 },
