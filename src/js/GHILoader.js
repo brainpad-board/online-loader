@@ -188,7 +188,6 @@ export default class GHILoader {
 
     async erase() {
         this.ensureOpen();
-		var line = await this.respq.pop()
         await this.sendConfirmAndExpect("E", "OK.");
     }
 
