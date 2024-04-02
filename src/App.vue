@@ -139,9 +139,9 @@ export default {
                     isGlb: true,
                     image: null,
                 },
-                'TinyCLR_2_2_0_5100': {
-                    title: '.NET C# (TinyCLR OS v2.2.0.5100)',
-                    url: 'firmware/SITCore-SC13-Firmware-v2.2.0.5100.ghi',
+                'TinyCLR_2_2_1_2000': {
+                    title: '.NET C# (TinyCLR OS v2.2.1.2000)',
+                    url: 'firmware/SITCore-SC13-Firmware-v2.2.1.2000.ghi',
                     isGlb: false,
                     image: null,
                 },
